@@ -48,7 +48,7 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 
 ---
 
-### 📚 Selected Scientific Publications
+### 📚 Scientific Publications
 1. **H. Khosravinezhad**, H. Keshavarz, and M. Mansorinezhad, *"Tunable microwave photonic mixer based on cascaded QCSE electro-absorption modulators for efficient frequency conversion,"* **Optics Continuum**, 4(8), 1662–1675, 2025.  
    [DOI: 10.1364/OPTCON.564528](https://doi.org/10.1364/OPTCON.564528)
 
