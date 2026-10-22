@@ -71,7 +71,6 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 
 **Documentation & Typesetting:**  
 ![LaTeX](https://img.shields.io/badge/LaTeX-Academic_Writing-008080?style=flat-square&logo=latex)  
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=flat-square&logo=markdown)
 
 ---
 
