@@ -13,12 +13,13 @@
 <br/>
 
 <!-- ================= 3. دکمه‌های شیک دانلود رزومه و ایمیل ================= -->
+<!-- ================= 3. دکمه‌های شیک دانلود رزومه و ایمیل ================= -->
 <div align="center">
   <a href="Resume.pdf">
     <img src="https://img.shields.io/badge/Download_CV-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:hkhosravinzhad@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hkhosravinzhad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
