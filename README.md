@@ -60,9 +60,18 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 ---
 
 ### 🛠️ Technical Stack & Tools
-- **Photonic & EM Simulation:** Ansys Lumerical (FDTD, MODE, INTERCONNECT), CST Studio Suite, Keysight ADS, Ansys Maxwell
-- **Scientific Computing & Mathematics:** MATLAB (Analytical modeling, optimization routines, numerical methods)
-- **Academic Documentation:** LaTeX, BibTeX, MS Office
+
+**Simulation & Hardware Design:**  
+![Ansys Lumerical](https://img.shields.io/badge/Ansys_Lumerical-FDTD%20|%20MODE%20|%20INTERCONNECT-orange?style=flat-square&logo=ansys)  
+![CST](https://img.shields.io/badge/CST_Studio_Suite-EM_Simulation-red?style=flat-square)  
+![Keysight](https://img.shields.io/badge/Keysight_ADS-RF_Design-blue?style=flat-square)  
+
+**Scientific Computing & Programming:**  
+![MATLAB](https://img.shields.io/badge/MATLAB-Optimization%20&%20Modeling-0076A8?style=flat-square&logo=mathworks)  
+
+**Documentation & Typesetting:**  
+![LaTeX](https://img.shields.io/badge/LaTeX-Academic_Writing-008080?style=flat-square&logo=latex)  
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-black?style=flat-square&logo=markdown)
 
 ---
 
