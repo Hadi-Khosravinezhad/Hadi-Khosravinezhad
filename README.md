@@ -1,18 +1,18 @@
 # Hi there, I'm Hadi Khosravinezhad 👋
 
-Researcher and Electrical Engineering Graduate with a strong analytical and simulation background in **Microwave Photonics (MWP)** and **High-Speed Electro-Optic Modulation (EOM)**.
+Researcher and Electrical Engineering Graduate with a strong analytical and multi-physics simulation background in **Microwave Photonics (MWP)** and **High-Speed Electro-Optic Modulation (EOM)**.
 
 ---
 
 ### 🔬 Core Research Expertise
-- **Microwave Photonics (MWP):** Cascaded EAM mixers, linearized frequency down-conversion, and photonic links.
+- **Microwave Photonics (MWP):** Cascaded EAM mixers, linearized frequency down-conversion, and photonic link design.
 - **Electro-Optic Modulators (EOM):** Dual-drive MZI modulators, multi-physics numerical modeling, and dynamic range optimization.
 - **Nonlinear Distortion Analysis:** Jacobi–Anger expansions, intermodulation distortion (IMD2/IMD3) suppression.
 
 ---
 
 ### 🌱 Current Research Horizons
-- **Quantum Optics & Quantum Information:** Currently expanding my research into quantum optical systems, coherent states, and quantum computing foundations through self-directed study.
+- **Quantum Optics & Quantum Information:** Expanding my research into quantum optical systems, coherent states, and quantum computing foundations through self-directed study.
 
 ---
 
@@ -30,13 +30,16 @@ Researcher and Electrical Engineering Graduate with a strong analytical and simu
 ### 🛠️ Technical Stack & Tools
 - **Photonic & EM Simulation:** Ansys Lumerical (FDTD, MODE, INTERCONNECT), CST Studio Suite, Keysight ADS, Ansys Maxwell
 - **Scientific Computing & Mathematics:** MATLAB (Analytical modeling, optimization routines, numerical methods)
-- **Academic Documentation:** LaTeX, MS Office
+- **Academic Documentation:** LaTeX, BibTeX, MS Office
 
 ---
 
 ### 📖 Academic Initiatives & Educational Booklets
-- 📘 **Electromagnetics Study Booklet:** A self-authored guide covering electrostatics, magnetostatics, and Maxwell’s equations for engineering students.
-- ⚛️ **Quantum Computation Primer:** An introductory booklet detailing quantum bits, basic gates, and computational principles.
+- 📘 **Electromagnetics Study Booklet:** A self-authored guide covering vector calculus, electrostatics, magnetostatics, and Maxwell’s equations.  
+  👉 **[View Repository & Booklet](https://github.com/hkhosravinzhad-art/electromagnetics-study-booklet)**
+
+- ⚛️ **Quantum Computation Primer:** An 80-page structured lecture note covering quantum postulates, logic circuits, Grover's search, and QFT/QPE.  
+  👉 **[View Repository & Booklet](https://github.com/hkhosravinzhad-art/quantum-computation)**
 
 ---
 
