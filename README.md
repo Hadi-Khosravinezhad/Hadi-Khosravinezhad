@@ -3,13 +3,14 @@
 <!-- ================= گزینه ۲: تم مهندسی مدرن (Slice) ================= -->
 <!-- ================= گزینه ۳: تم آکادمیک رسمی و معتبر ================= -->
 <!-- ================= گزینه ۴: تم لیزر و اپتیک غیرخطی ================= -->
+<!-- ================= گزینه ۱: تم کوانتوم فوتونیک ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:18022b,40:4c0519,80:701a75,100:a21caf&height=220&section=header&text=HADI%20KHOSRAVINEZHAD&fontSize=42&fontAlignY=36&desc=Electrical%20Engineering%20%7C%20Microwave%20Photonics%20%7C%20Quantum%20Information&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,35:0a192f,70:0284c7,100:38bdf8&height=220&section=header&text=HADI%20KHOSRAVINEZHAD&fontSize=42&fontAlignY=36&desc=Electrical%20Engineering%20%7C%20Microwave%20Photonics%20%7C%20Quantum%20Information&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=E879F9&center=true&vCenter=true&width=650&lines=Microwave+Photonics+Researcher;First-Author+in+Optica+Journals;Multi-Physics+%26+Numerical+Modeling;Expanding+into+Quantum+Optics+%26+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Microwave+Photonics+Researcher;First-Author+in+Optica+Journals;Multi-Physics+%26+Numerical+Modeling;Expanding+into+Quantum+Optics+%26+Computing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +18,7 @@
 
 <div align="center">
   <a href="Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-9333EA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
+    <img src="https://img.shields.io/badge/Download_CV-PDF-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hkhosravinzhad@gmail.com" target="_blank">
