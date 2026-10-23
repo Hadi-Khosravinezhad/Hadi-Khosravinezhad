@@ -68,7 +68,7 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 
 ### 💻 Computational & Simulation Projects
 - 🔬 **Computational Quantum Optics (Gerry & Knight):** An ongoing pedagogical series of numerical simulations, phase-space representations, and theoretical modeling based on Christopher Gerry and Sir Peter Knight's *Introductory Quantum Optics*. `[In Progress]`  
-  👉 **[View Repository](https://github.com/hkhosravinzhad-art/quantum-optics-gerry-knight)**
+  👉 **[View Repository](https://github.com/hkhosravinzhad/quantum-optics-gerry-knight)**
 
   ---
 
