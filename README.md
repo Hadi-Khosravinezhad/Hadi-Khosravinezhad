@@ -57,7 +57,7 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 2. **H. Khosravinezhad** and H. Keshavarz, *"Generalized analytical framework for nonlinear intermodulation analysis and waveform reconstruction in high-speed EOM-MZI modulators,"* **Applied Optics**, 65(16), 5491–5499, 2026.  
    [DOI: 10.1364/AO.595863](https://doi.org/10.1364/AO.595863)
 
-3. **H. Khosravinezhad** and H. Keshavarz, *"Analytical Modeling and Dynamic Range Optimization of Cascaded Dual-Drive MZM Microwave Photonic Down-Converters,"* (*Under Review in Optica Publishing Group*, 2026).
+3. **H. Khosravinezhad** and H. Keshavarz, *"Analytical Modeling and Dynamic Range Optimization of Cascaded Dual-Drive MZM Microwave Photonic Down-Converters,"* (*Under Review*, 2026).
 
 ---
 
