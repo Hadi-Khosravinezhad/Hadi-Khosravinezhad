@@ -63,7 +63,7 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 
 <!-- ================= بخش پروژه‌های محاسباتی و شبیه‌سازی ================= -->
 ### 💻 Computational & Simulation Projects
-- 🌀 **Relativistic Electrodynamics & Field Transformations:** An analytical and computational investigation of Lorentz force frame invariance and field transformations. `[In Progress]`
+- ⚡ **Relativistic Electrodynamics:** An analytical and computational project dedicated to relativistic electrodynamics, Lorentz transformations of electromagnetic fields, and charged particle dynamics across inertial reference frames through theoretical modeling and numerical simulations.  
   👉 **[View Repository](https://github.com/Hadi-Khosravinezhad/relativistic-electrodynamics)**
 
 - 🔬 **Computational Quantum Optics (Gerry & Knight):** An ongoing pedagogical series of numerical simulations, phase-space representations, and theoretical modeling based on Christopher Gerry and Sir Peter Knight's *Introductory Quantum Optics*. `[In Progress]`  
