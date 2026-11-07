@@ -1,9 +1,4 @@
 <!-- ================= 1. بنر داینامیک و کاور هدر ================= -->
-<!-- ================= گزینه ۱: تم کوانتوم فوتونیک ================= -->
-<!-- ================= گزینه ۲: تم مهندسی مدرن (Slice) ================= -->
-<!-- ================= گزینه ۳: تم آکادمیک رسمی و معتبر ================= -->
-<!-- ================= گزینه ۴: تم لیزر و اپتیک غیرخطی ================= -->
-<!-- ================= گزینه ۱: تم کوانتوم فوتونیک ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,35:0a192f,70:0284c7,100:38bdf8&height=220&section=header&text=HADI%20KHOSRAVINEZHAD&fontSize=42&fontAlignY=36&desc=Electrical%20Engineering%20%7C%20Microwave%20Photonics%20%7C%20Quantum%20Information&descAlignY=60&descAlign=50&animation=twinkling" width="100%"/>
 </div>
@@ -29,8 +24,6 @@
 <br/>
 
 ---
-
-
 
 # Hi there, I'm Hadi Khosravinezhad 👋
 
@@ -63,13 +56,16 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 
 ### 🛠️ Technical Stack & Tools
 - **Photonic & EM Simulation:** Ansys Lumerical (FDTD, MODE, INTERCONNECT), CST Studio Suite, Keysight ADS, Ansys Maxwell
-- **Scientific Computing & Mathematics:** MATLAB (Analytical modeling, optimization routines, numerical methods)
+- **Scientific Computing & Mathematics:** Python (NumPy, SciPy, Matplotlib Animation), MATLAB (Analytical modeling, optimization routines, numerical methods)
 - **Academic Documentation:** LaTeX, MS Office
 
 ---
 
 <!-- ================= بخش پروژه‌های محاسباتی و شبیه‌سازی ================= -->
 ### 💻 Computational & Simulation Projects
+- 🌀 **Relativistic Electrodynamics & Field Transformations:** An analytical and computational investigation of Lorentz force frame invariance and field transformations. `[In Progress]`
+  👉 **[View Repository](https://github.com/Hadi-Khosravinezhad/relativistic-electrodynamics)**
+
 - 🔬 **Computational Quantum Optics (Gerry & Knight):** An ongoing pedagogical series of numerical simulations, phase-space representations, and theoretical modeling based on Christopher Gerry and Sir Peter Knight's *Introductory Quantum Optics*. `[In Progress]`  
   👉 **[View Repository](https://github.com/Hadi-Khosravinezhad/quantum-optics-gerry-knight)**
 
@@ -80,10 +76,10 @@ Researcher and Electrical Engineering Graduate with a strong analytical and mult
 - ⚛️ **Quantum Computation Primer:** An 80-page structured lecture note covering quantum postulates, logic circuits, Grover's search, and QFT/QPE.  
   👉 **[View Repository & Booklet](https://github.com/Hadi-Khosravinezhad/quantum-computation)**
 
-- 📘 **Electromagnetics Study Booklet:** A self-authored guide covering vector calculus, electrostatics, magnetostatics, and Maxwell’s equations.  
+- 📘 **Electromagnetics Study Booklet:** A self-authored guide covering vector calculus, electrostatics, magnetostatics, and Maxwell’s equations (theoretically backing computational electrodynamics projects).  
   👉 **[View Repository & Booklet](https://github.com/Hadi-Khosravinezhad/electromagnetics-study-booklet)**
 
-  ---
+---
 
 ### 📫 Contact & Academic Inquiries
 - **Email:** [hkhosravinzhad@gmail.com](mailto:hkhosravinzhad@gmail.com)
